@@ -1,0 +1,9 @@
+diffusers
+datasets
+accelerate
+torchvision
+matplotlib
+tiktoken
+sentencepiece
+peft
+llava
